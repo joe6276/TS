@@ -7,4 +7,5 @@ function showError(message:string, code:number):never{
 }
 
 
-showError('Page not found', 404)
+// showError('Page not found', 404)
+console.log("hello")
